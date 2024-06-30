@@ -8,14 +8,14 @@ date: 2024-06-01
 featured: true
 
 authors:
-  - name: David R. Wessels*
-    url: "https://www.linkedin.com/in/david-wessels-b24299122/?originalSubdomain=nl"
+  - name: ""
+    url: ""
     affiliations:
-      name: University of Amsterdam
-  - name: David M. Knigge*
-    url: "https://davidmknigge.nl"
+      name: ""
+  - name: ""
+    url: ""
     affiliations:
-      name: University of Amsterdam
+      name: ""
 
 bibliography: 2024-06-15-equivariant-neural-fields.bib
 
